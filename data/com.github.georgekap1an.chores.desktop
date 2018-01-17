@@ -2,7 +2,7 @@
 Name=Chores
 GenericName=To-Do List Utility
 Comment=Manage Your Chores
-Categories=Utility;
+Categories=Utility;ProjectManagement;
 Exec=com.github.georgekap1an.chores
 Icon=com.github.georgekap1an.chores
 Terminal=false
